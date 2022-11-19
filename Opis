@@ -1,4 +1,5 @@
 Budowanie Rakiet
+
 Konfigurowanie startu
 
 string void Start (double ilosc_paliwa, string nazwisko_kapitana)
