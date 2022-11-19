@@ -7,6 +7,7 @@ string void Start (double ilosc_paliwa, string nazwisko_kapitana)
   if(ilosc_paliwa>1000 and nazwisko_kapitana == "Johnson"
   {
     return "start";
+  } else if(ilosc_paliwa>2500) {
+    return "turno";
   }
-
 }
